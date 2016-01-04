@@ -17,7 +17,7 @@ Looking for a simple, responsive, theme for your Jekyll powered blog? Well look 
 * Education
 * Friendship 
 * Character
-
+* Test
 <a markdown="0" href="{{ site.url }}/theme-setup" class="btn">Install So Simple Theme</a>
 
 [^1]: Example: *domain.com/category-name/post-title*
