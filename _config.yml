@@ -1,8 +1,8 @@
 # Site wide configuration
 
-title: An ode to (Ok)Cupid
+title: Delta Chi at CWRU
 locale: en_US
-description: Joseph "Jase" Broderick's blog join him as he discusses his opinions on life, love, and the universe.
+description: Learn more about Delta Chi's chapter at Case Western Reserve University
 logo: site-logo.png
 search: true
 url: 
@@ -32,7 +32,7 @@ exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.
 
 # Site owner
 owner:
-  name: Jase Broderick
+  name: Jase Broderick, Justin Ferri
   avatar: Jase_Avatar.jpg
   email: 13broderickj@gmail.com
   disqus-shortname:
